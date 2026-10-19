@@ -1,3 +1,4 @@
+import React from 'react';
 export default function AboutUs() {
   return <section className="about" aria-labelledby="about-title">
     <span className="eyebrow">Rooted in a love of nature</span>

@@ -1,3 +1,4 @@
+import React from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { addItem, selectCartCount } from './CartSlice.jsx';
 import { categories } from './plants.js';
